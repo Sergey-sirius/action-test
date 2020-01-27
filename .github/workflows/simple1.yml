@@ -8,11 +8,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Шаг 1 запуск клонирования репозитория на инстансе
+    - name: Step 1 clone repo
     - uses: actions/checkout@v1
-      run: echo Hello, world! Шаг 1 выполнен
+      run: echo Hello, world! Step 1 completed
 
-    - name: Шаг 2 
+    - name: Step2 !
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.

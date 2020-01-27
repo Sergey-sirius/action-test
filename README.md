@@ -9,3 +9,6 @@ Status of Last Deployment:<br>
 Ссылка на видеоурок https://www.youtube.com/watch?v=Yg5rpke79X4&t=8s
 
 ## Продолжение
+
+https://www.youtube.com/watch?v=G6nBM3NxBDc
+

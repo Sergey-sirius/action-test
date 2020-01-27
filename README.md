@@ -5,7 +5,7 @@ Status of Deploy: <br>
 <br>
                                                                                                      
 Status of Last Deployment:
-<img src = " htt ps://github.com/adv4000/github-actions-part-1-basics/workflows/My-GitHubActions-Basics/badge.svg?branch=master">
+img src = " htt ps://github.com/adv4000/github-actions-part-1-basics/workflows/My-GitHubActions-Basics/badge.svg?branch=master"
                                                                                                        
                                                                                                    
 Тестируем actions режим runners на VPS

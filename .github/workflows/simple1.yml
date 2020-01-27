@@ -1,6 +1,10 @@
 name: ActionTest1
 
-on: [push]
+#--- далее указываем реагировать только на push для ветки master
+on:
+  push:
+    branches: 
+      - master
 
 jobs:
   build:
